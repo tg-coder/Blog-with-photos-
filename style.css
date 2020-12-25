@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+    background-color: cyan;
+}
+div{
+    margin-top: 20px;
+}
+.image-section{
+    display:flex;
+    justify-content: center;
+    height: 60px;
+    width: 70px;
+}
+.section-style{
+    margin-right: 30px;
+    margin-left: 32px;
+    background-color: deepskyblue;
+}
